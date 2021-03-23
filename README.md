@@ -5,7 +5,7 @@ Chuẩn bị 3 bài toán + thuật toán, các kết quả có được sau khi
 
 | STT | Họ tên          | MSSV     | GitHub | Email                  |
 |-----|-----------------|----------|--------|------------------------|
-| 1   | Nguyễn Lộc Linh | 19521754 |        | 19521754@gm.uit.edu.vn |
+| 1   | Nguyễn Lộc Linh | 19521754 |LocLinh | 19521754@gm.uit.edu.vn |
 | 2   | Trần Duy Quang  | 19522102 |        | 19522102@gm.uit.edu.vn |
 | 3   | Nguyễn Trí Tài  | 19522572 |        | 19522572@gm.uit.edu.vn |
 | 4   | Vũ Quốc Huy     | 19521642 |        | 19521642@gm.uit.edu.vn |
