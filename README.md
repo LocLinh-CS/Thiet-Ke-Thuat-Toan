@@ -11,6 +11,8 @@ Chuẩn bị 3 bài toán + thuật toán, các kết quả có được sau khi
 | 4   | Vũ Quốc Huy     | 19521642 |          | 19521642@gm.uit.edu.vn |
 
 # 2. Đề tài
+Luyện tập thiết kế thuật toán
 ## 1. Nội Dung
+Chuẩn bị 3 bài toán + thuật toán, các kết quả có được sau khi computional thinking & analysis, bộ test đính kèm
 
-## 2. Giới thiệu
+Thành thạo trong việc lựa chọn thuật toán, xây dựng chương trình, kiểm thử kết quả
