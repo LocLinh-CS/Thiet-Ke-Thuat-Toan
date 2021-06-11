@@ -16,3 +16,5 @@ Luyện tập thiết kế thuật toán
 Chuẩn bị 3 bài toán + thuật toán, các kết quả có được sau khi computional thinking & analysis, bộ test đính kèm
 
 Thành thạo trong việc lựa chọn thuật toán, xây dựng chương trình, kiểm thử kết quả
+## Link hackerrank
+https://www.hackerrank.com/cs112-l21-n16
