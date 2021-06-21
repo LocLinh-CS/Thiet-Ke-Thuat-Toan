@@ -2,7 +2,7 @@
 
 Công thức tính điểm như sau:\
 Tổng điểm bài tập hackerrank / 400 * 8 + điểm phát biểu\
-(Giá trị sau cùng được làm tròn lên)
+(Giá trị sau cùng được làm tròn lên và tối đa đc 10 điểm(thang điểm 10))
 
 vd: Mình phát biểu, đóng góp ý kiến 2 lần trong buổi semina. Làm tất cả 4 bài tập hackerrank lần lượt là 50, 60, 70, 80.\
 => Điểm tổng kết của mình là: (50 + 60 + 70 + 80) / 400 * 8 + 2 = 5.2 sau đó làm tròn lên đc 6
